@@ -1,3 +1,4 @@
-#TDD Practice Code Base
+task 分解步骤
 
-This project is a empty code stack for quick start TDD coding
+1.首先打印出1-120间的数字，如果遇到3的倍数，输出Fizz，如果是5的倍数，输出Buzz，如果是7的倍数，输出Whizz，暂时不解决冲突
+2.解决一个数同时是几个数的倍数的情况
